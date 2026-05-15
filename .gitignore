@@ -3,5 +3,3 @@
 *.tfstate.backup
 .terraform.lock.hcl
 *.tfvars
-*.ps1
-*.py
